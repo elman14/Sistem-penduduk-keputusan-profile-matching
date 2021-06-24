@@ -1,0 +1,16 @@
+Tutorial cara instalasi:
+
+1. Pastikan komputer anda sudah terinstall XAMPP, jika belum download dulu di https://www.apachefriends.org/download.html
+
+2. Buka XAMPP Control Panel, pastikan service "Apache" dan "MySQL" dalam keadaan berjalan (running) ditandai dengan warna hijau
+
+3. Copy folder "profile_matching" ke folder htdocs (biasa nya di C:/xampp/htdocs atau C:/Program Files/xampp/htdocs)
+
+4. Buka browser http://localhost/phpmyadmin dan buat database dengan nama profile_matching
+
+5. Import file profile_matching.sql yang ada di folder database
+
+6. Jika benar, aplikasi dapat diakses di http://localhost/profile_matching
+
+Catatan:
+Jika tampil informasi 'Database tidak ditemukan', buka file koneksi.php dan ubah setting user dan password nya sesuai dengan user dan password MySQL yang anda gunakan

@@ -1,0 +1,5 @@
+Persyaratan Minimum yang dibutuhkan untuk menjalankan aplikasi
+
+1. XAMPP/WAMP dengan PHP minimal versi 7.1 keatas
+2. MySQL/MariaDB bawaan dari XAMPP/WAMP
+3. Browser Chrome/Firefox/Edge

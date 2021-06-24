@@ -1,0 +1,11 @@
+Tutorial cara pemakaian aplikasi:
+
+1. Aplikasi dapat diakses di http://localhost/profile_matching menggunakan browser Chrome/Firefox
+
+2. Anda dapat login menggunakan akses berikut ini:
+Username: admin
+Password: admin
+
+3. Pada aplikasi sudah terdapat sampel data studi kasus
+
+4. Jika masih belum paham bagaimana cara kerja perhitungan metode Profile Matching, sudah disertakan contoh studi kasus metode Profile Matching dalam bentuk file Excel
